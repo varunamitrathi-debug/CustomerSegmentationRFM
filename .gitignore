@@ -1,0 +1,4 @@
+data/*.xlsx
+retail.db
+output/03 customer rfm.csv
+__pycache__/
